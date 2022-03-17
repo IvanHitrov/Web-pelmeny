@@ -10,8 +10,8 @@
       <img src="https://cdn.pixabay.com/photo/2018/01/20/11/08/pelmeni-3094297_960_720.jpg"/>
       <h1>Веб-пельмени</h1>
       <nav>
-        <a href=""/>
-        <a href=""/>
+        <a href=""></a>
+        <a href=""></a>
       </nav>
     </header>
     <main>
