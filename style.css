@@ -9,9 +9,8 @@ a {
     border: 3px solid #870047;
     border-radius: 5px;
     padding: 4px;
-    margin: 40px 25px 10px 165px;
+    margin: 40px 70px 10px 230px;
     font-size: 20px;
-    text-align:center;
 }
 
 header p {
@@ -21,23 +20,30 @@ header p {
 
 main p {
     font-size: 18px;
-    color:#000000;
-    height: 80px;
-    width: 525px;
-    margin: 90px 65px 0px 10px;
+    color: #ffffff;
 }
 
 main img {
     width: 154px;
     height: 115px;
-    margin: 54px 48px 0px 53px;
-    float:left
 }
 
 footer img {
     width: 542px;
     height: 242px;
-    text-align:center;
-    margin-top:10px;
-    margin-left:180px
+    margin-top: 80px;
+    margin-left: 280px;
+}
+
+.E {
+    width:200px;
+    margin:40px 0px 40px 120px;
+    text-align: center;
+    border: 3px dashed #1CA7CC;
+    float: left;
+}
+
+.a {
+    width: 1050px;
+    height: 300px;
 }
