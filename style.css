@@ -24,9 +24,8 @@ main p {
     color:#000000;
     height: 80px;
     width: 525px;
-    text-align: left;
-    margin: 90px 65px 0px 0px;
-    float: right;
+    margin: 90px 65px 0px 10px;
+    float: left;
 }
 
 main img {
