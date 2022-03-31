@@ -9,7 +9,7 @@ a {
     border: 3px solid #870047;
     border-radius: 5px;
     padding: 4px;
-    margin: 40px 50px 10px 0px;
+    margin: 40px 25px 10px 25px;
     font-size: 20px;
     text-align:center;
 }
@@ -21,7 +21,7 @@ header p {
 
 main p {
     font-size: 18px;
-    color: white;
+    color:#000000;
     height: 80px;
     width: 525px;
     text-align: left;
@@ -39,6 +39,7 @@ main img {
 footer img {
     width: 542px;
     height: 242px;
-    text-align: center;
-    margin-top: 10px;
+    text-align:center;
+    margin-top:10px;
+    margin-left:60px
 }
