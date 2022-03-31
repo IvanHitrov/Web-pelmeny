@@ -9,9 +9,9 @@ a {
     border: 3px solid #870047;
     border-radius: 5px;
     padding: 4px;
-    margin: 40px 10px 10px 250px;
+    margin: 40px 50px 10px 0px;
     font-size: 20px;
-    text-align: right;
+    text-align:center;
 }
 
 header p {
