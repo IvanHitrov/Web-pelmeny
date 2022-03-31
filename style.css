@@ -25,13 +25,13 @@ main p {
     height: 80px;
     width: 525px;
     margin: 90px 65px 0px 10px;
-    float: right;
 }
 
 main img {
     width: 154px;
     height: 115px;
     margin: 54px 48px 0px 53px;
+    float:left
 }
 
 footer img {
