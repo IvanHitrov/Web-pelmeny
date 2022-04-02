@@ -24,20 +24,20 @@ main p {
 }
 
 main img {
-    width: 154px;
-    height: 115px;
+    width: 184px;
+    height: 145px;
 }
 
 footer img {
     width: 542px;
     height: 242px;
     margin-top: 80px;
-    margin-left: 280px;
+    margin-left: 240px;
 }
 
 article {
     width:200px;
-    margin:40px 0px 40px 160px;
+    margin:40px 0px 40px 130px;
     text-align: center;
     border: 3px dashed #1CA7CC;
     float: left;
