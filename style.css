@@ -35,7 +35,7 @@ footer img {
     margin-left: 280px;
 }
 
-.E {
+article {
     width:200px;
     margin:40px 0px 40px 120px;
     text-align: center;
@@ -43,7 +43,7 @@ footer img {
     float: left;
 }
 
-.a {
+section {
     width: 1050px;
     height: 300px;
 }
