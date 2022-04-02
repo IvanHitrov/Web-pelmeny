@@ -9,17 +9,17 @@ a {
     border: 3px solid #870047;
     border-radius: 5px;
     padding: 4px;
-    margin: 40px 70px 10px 280px;
+    margin: 40px 70px 10px 320px;
     font-size: 20px;
 }
 
 header p {
-    font-size: 36px;
+    font-size: 66px;
     text-align: center;
 }
 
 main p {
-    font-size: 18px;
+    font-size: 25px;
     color: #ffffff;
 }
 
@@ -37,7 +37,7 @@ footer img {
 
 article {
     width:200px;
-    margin:40px 0px 40px 120px;
+    margin:40px 0px 40px 160px;
     text-align: center;
     border: 3px dashed #1CA7CC;
     float: left;
