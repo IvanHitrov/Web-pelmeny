@@ -19,7 +19,7 @@ header p {
 }
 
 main p {
-    font-size: 20px;
+    font-size: 19px;
     color: #ffffff;
 }
 
@@ -32,12 +32,12 @@ footer img {
     width: 542px;
     height: 242px;
     margin-top: 80px;
-    margin-left: 280px;
+    margin-left: 260px;
 }
 
 article {
     width:220px;
-    margin:40px 0px 40px 90px;
+    margin:40px 0px 40px 110px;
     text-align: center;
     border: 3px dashed #1CA7CC;
     float: left;
