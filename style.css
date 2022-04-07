@@ -9,8 +9,10 @@ a {
     border: 3px solid #870047;
     border-radius: 5px;
     padding: 4px;
-    margin: 40px 70px 10px 340px;
+    margin: 40px 0px 10px 0px;
     font-size: 20px;
+    display: flex;
+    justify-content:space-around;
 }
 
 header p {
@@ -31,22 +33,19 @@ main img {
 footer img {
     width: 542px;
     height: 242px;
-    margin-top: 80px;
-    margin-left: 200px;
     display:flex;
     justify-content:center;
 }
 
 article {
     width:220px;
-    margin:40px 0px 40px 150px;
     text-align: center;
     border: 3px dashed #1CA7CC;
+    display:flex;
+    justify-content:space-around;
 }
 
 section {
-    width: 1150px;
-    height: 300px;
     display:flex;
     justify-content:space-around;
 }
