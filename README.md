@@ -7,9 +7,11 @@
     </head>
     <body>
         <header>
-            <p>Веб-пельмени</p>  
+            <p>Веб-пельмени</p> 
+            <nav>
             <a href=""><b>О нас</b></a>
             <a href=""><b>Наши увлечения</b></a>
+            </nav>
         </header>
         <main>
         <section>
