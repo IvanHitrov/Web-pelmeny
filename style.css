@@ -38,14 +38,13 @@ footer img {
     height: 242px;
     display:flex;
     justify-content:space-around;
+    margin:80px 0px 0px 390px;
 }
 
 article {
     width:220px;
     text-align: center;
     border: 3px dashed #1CA7CC;
-    display:flex;
-    justify-content:space-around;
 }
 
 section {
