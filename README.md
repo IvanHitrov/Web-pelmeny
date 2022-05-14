@@ -20,7 +20,7 @@
             <p>Наша группа решила создать сайт на разные тематики, а также мы расскажем кто в нашей группе и чем мы занимаемся в свободное время</p> 
             </article>
             <article>
-            <img src="https://s3-alpha-sig.figma.com/img/67bd/1e60/c9bb0ee997609ea1a25b7d1550d50c41?Expires=1649030400&Signature=HpNTlOaNXUKX7WhIDQ~loJxhBmjE4RhXiJxtPTM9R3aq6PGHONOIJk~EyfwuzZgFG49bMrZjKO63Lsyxw0PH2NtBcHpkjhofli3s94lUQ29bfvxAytD27l3VRqYAwSlPFtzYw0e1T4zJa0eOEE8Doy1shNO4p8gG6lEWsGyc0L6ui1MXNhVSsXrNH5h3FdyKS5oRYcYNtoq~z3oxelBEoq731kOwPbsqoApMO5RwQELInd6FipleZ3lt-7JWDqVAEwYm1sgEL~RJ~UE6U1BeNB-eIoiMUNGv5huNx0coLuI0LOfXGziPZ3mIm-VqcBOwJ8PYuKUI3VonTc6Lpp99bw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"/>
+            <img src="https://cdn.pixabay.com/photo/2016/06/13/09/57/meeting-1453895_960_720.png"/>
             <p>на второй странице вы увидите больше информации о нас</p>
             </article>
             <article>
