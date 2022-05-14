@@ -24,7 +24,7 @@
             <p>на второй странице вы увидите больше информации о нас</p>
             </article>
             <article>
-            <img src="https://s3-alpha-sig.figma.com/img/7aad/553a/c4c4995824f1479635c3645d7551e702?Expires=1649030400&Signature=eGsTDlaxiOKY6SWJbaxQUjc5DRzesVz1u9EmArNW23YcjH3QvRweN0JegCgQ3ej6YNI~z0XNo01H-0MxtiBSWfPWlB89ZZzemdnvLuOanqSv5Yb3iV8fkr0neP9Dky8po2sZO8ZcO1VXZU3BB~ljKWsdIVDCLDgi2fIq4IlJAwlgZpfHME7jx-JRUR5SYreGBwxEpVQm20vvCGTAdOh~PZxBNAghBLpVHGJuHV2cnnkevX5hbs3WafwBxr91Cp-79aZoys7dGZc3XkFM8SpY-z8l0Sb-OhxkDLhG8zMEoVbusnCdrogv1x1aHBzpC8yEkNJdSNudhGBlWr~ohx9FNQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"/>  
+            <img src="https://cdn.pixabay.com/photo/2015/01/09/11/09/meeting-594091_960_720.jpg"/>  
             <p>На третьей странице вы узнаете о наших общих увлечениях</p> 
             </article>
         </section>
