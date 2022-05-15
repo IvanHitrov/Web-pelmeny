@@ -46,6 +46,7 @@ article {
     width:300px;
     text-align: center;
     border: 4px dashed #1CA7CC;
+    box-shadow:3px 3px 10px 5px #515151;
 }
 
 section {
