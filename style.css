@@ -26,6 +26,7 @@ header p {
 main p {
     font-size: 21px;
     color: #ffffff;
+    font-family:sans-serif;
 }
 
 main img {
@@ -40,14 +41,14 @@ footer img {
     justify-content:space-around;
     align-items:center;
     margin:80px 0px 0px 280px;
-    box-shadow:6px 6px 12px 7px #515151;
+    box-shadow:9px 9px 15px 7px #515151;
 }
 
 article {
     width:300px;
     text-align: center;
     border: 4px dashed #1CA7CC;
-    box-shadow:3px 3px 10px 5px #515151;
+    box-shadow:6px 6px 15px 5px #515151;
 }
 
 section {
