@@ -39,7 +39,8 @@ footer img {
     display:flex;
     justify-content:space-around;
     align-items:center;
-    margin:80px 0px 0px 390px;
+    margin:80px 0px 0px 280px;
+    box-shadow:6px 6px 12px 7px #515151;
 }
 
 article {
