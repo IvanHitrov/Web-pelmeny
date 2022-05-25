@@ -55,3 +55,9 @@ section {
     display:flex;
     justify-content:space-around;
 }
+
+article:hover {
+    box-shadow:6px 6px 15px 5px #515151;
+    transform:translateX (-6px), translateY (-6px);
+    transition:0.2s ease-in-out;
+}
