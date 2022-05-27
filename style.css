@@ -55,7 +55,7 @@ section {
     justify-content:space-around;
 }
 
-article:hover {
+article:focus {
     box-shadow: 6px 6px 15px 5px #515151;
     transform: translateX (-6px);
     transition: 0.2s ease-in;
